@@ -10,7 +10,8 @@ and multiplication) and point evaluation using polynomials; the polynomials are 
 
 ## Code & Test Cases
 
-The code written can be found in the [src](https://github.com/urvishp13/Polynomial/tree/main/src/poly) folder. 
+The code written can be found in the [src](https://github.com/urvishp13/Polynomial/tree/main/src/poly) folder. Look for the `@author` tag
+to see the code I have written.
 The code was tested using self-generated test cases that can be found in [this](https://github.com/urvishp13/Polynomial/blob/main/docs/testcases.md) 
 file. If you want to generate your own polynomials to test the code, simply create a text file and follow the the instructions on 
 how to format the content of your polynomial under the "Running the program" section in [problem_specs](https://github.com/urvishp13/Polynomial/blob/main/docs/problem_specs.pdf) 
