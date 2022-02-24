@@ -1,6 +1,6 @@
 # Polynomial
 
-Please run using Java 8.
+This project is solely written in Java. Please run it using Java 8.
 
 ## Overview
 
