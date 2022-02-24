@@ -7,7 +7,6 @@ import java.util.StringTokenizer;
  * This class implements a term of a polynomial.
  * 
  * @author runb-cs112
- * @author Urvish Patel
  *
  */
 class Term {
@@ -92,6 +91,7 @@ class Node {
  * This class implements a polynomial.
  * 
  * @author runb-cs112
+ * @author Urvish Patel
  *
  */
 public class Polynomial {
