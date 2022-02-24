@@ -13,7 +13,7 @@ Note: Next to the test cases are the files used for the test case
 
 1. multiply 2 NON-ZERO polynomials: `ptest1.txt` and `ptest2.txt`
 2. multiply 2 ZERO polynomials: `emptyPoly.txt` and `emptyPoly.txt`
-3. multiple 1 NON-ZERO polynomial and 1 ZERO polynomial: `ptest1.txt` and `emptyPoly.txt`
+3. multiply 1 NON-ZERO polynomial and 1 ZERO polynomial: `ptest1.txt` and `emptyPoly.txt`
 
 ### Testing evaluate()
 
