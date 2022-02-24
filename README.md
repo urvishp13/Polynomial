@@ -18,4 +18,4 @@ file. The files for the polynomials I used are in the [data](https://github.com/
 
 ## How to Test
 
-To test the program, simply run the .JAVA file and follow the instructions presented to you in the (eg. console in Eclipse, CLI, etc.).
+To test the program, simply run the Polytest.java file and follow the instructions presented to you in the (eg. console in Eclipse, CLI, etc.).
