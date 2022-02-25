@@ -19,9 +19,9 @@ file. The files for the polynomials I used are in the [data](https://github.com/
 
 ## How to Test
 
-To test the program, access the contents of this repository as appropriate for you, (eg. if using the command line, go into the `bin` 
+To test the program, access the contents of this repository as appropriate for you and follow the instructions presented to you in the 
+(eg. command line, console in Eclipse, etc.). To run the program, (eg. if using the command line, go into the `bin` 
 folder of this repo and type `java poly.Polytest`--as the .class files are already there; if using Eclipse, import this 
-repository into your Eclipse and click run) and follow the instructions presented to you in the (eg. command line, console in Eclipse, 
-etc.). To access the
+repository into your Eclipse and click run, etc.) To access the
 polynomial files (.txt files) when running the program, you will have to backout/follow-directory-paths until you are in the directory of
 that file (eg. in the command line, you'll have to use `../data/<file_name>.txt`; in Eclipse, you'll have to use `data/<file_name>.txt`).
