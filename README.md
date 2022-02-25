@@ -23,5 +23,5 @@ To test the program, access the contents of this repository as appropriate for y
 folder of this repo and type `java poly.Polytest`--as the .class files are already there; if using Eclipse, import this 
 repository into your Eclipse and click run) and follow the instructions presented to you in the (eg. command line, console in Eclipse, 
 etc.). To access the
-polynomial files (.txt files) of interest, you will have to backout/follow-directory-paths until you are in the directory of
+polynomial files (.txt files) when running the program, you will have to backout/follow-directory-paths until you are in the directory of
 that file (eg. in the command line, you'll have to use `../data/<file_name>.txt`; in Eclipse, you'll have to use `data/<file_name>.txt`).
