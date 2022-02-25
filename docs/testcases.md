@@ -4,16 +4,16 @@ Note: Next to the test cases are the files used for the test case
 
 ### Testing add()
 
-1. add 2 NON-ZERO polynomials: `ptest1.txt` and `ptest2.txt`
-2. add 2 ZERO polynomials: `emptyPoly.txt` and `emptyPoly.txt`
-3. add 1 NON-ZERO and 1 ZERO polynomial: `ptest1.txt` and `emptyPoly.txt`
+1. add 2 non-zero polynomials: `ptest1.txt` and `ptest2.txt`
+2. add 2 zero polynomials: `emptyPoly.txt` and `emptyPoly.txt`
+3. add 1 non-zero and 1 ZERO polynomial: `ptest1.txt` and `emptyPoly.txt`
 4. add 1 polynomial with its OPPOSITE to get a 0 sum: `ptest1.txt` and `ptest1opp.txt`
 
 ### Testing multiply()
 
-1. multiply 2 NON-ZERO polynomials: `ptest1.txt` and `ptest2.txt`
-2. multiply 2 ZERO polynomials: `emptyPoly.txt` and `emptyPoly.txt`
-3. multiply 1 NON-ZERO polynomial and 1 ZERO polynomial: `ptest1.txt` and `emptyPoly.txt`
+1. multiply 2 non-zero polynomials: `ptest1.txt` and `ptest2.txt`
+2. multiply 2 zero polynomials: `emptyPoly.txt` and `emptyPoly.txt`
+3. multiply 1 non-zero polynomial and 1 zero polynomial: `ptest1.txt` and `emptyPoly.txt`
 
 ### Testing evaluate()
 
