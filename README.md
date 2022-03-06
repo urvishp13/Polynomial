@@ -4,7 +4,7 @@ This project is solely written in Java. Please run it using Java 8.
 
 ## Overview
 
-This project was an assignment given to Rutgers CS112 students in the Fall of 2014. It was redone in August 2021 with no recollection
+This project was an assignment given to Rutgers CS112 Data Structures students in the Fall of 2014. It was redone in August 2021 with no recollection
 of how the project was initially completed. The focus of this project is to perform arithmetic operations (specifically addition
 and multiplication) and point evaluation using polynomials; the polynomials are generated using Linked Lists.
 
