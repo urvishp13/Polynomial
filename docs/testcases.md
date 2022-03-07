@@ -17,5 +17,5 @@ Note: Next to the test cases are the files used for the test case
 
 ## evaluate()
 
-1. evaluate `ptest1.txt` as shown in at `x = 2`, as shown in [problem_specs](https://github.com/urvishp13/Polynomial/blob/main/docs/problem_specs.pdf)
+1. evaluate `ptest1.txt` at `x = 2`, as shown in [problem_specs](https://github.com/urvishp13/Polynomial/blob/main/docs/problem_specs.pdf)
 2. evaluate a polynomial with `x = 0`
