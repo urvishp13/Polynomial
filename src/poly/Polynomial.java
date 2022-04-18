@@ -90,8 +90,8 @@ class Node {
 /**
  * This class implements a polynomial.
  * 
- * @author runb-cs112
  * @author Urvish Patel
+ * @author runb-cs112
  *
  */
 public class Polynomial {
