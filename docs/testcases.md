@@ -1,6 +1,6 @@
 # Test Cases
 
-Note: Next to the test cases are the files used for the test case
+Note: Next to the test cases are the files used for that test case
 
 ## add()
 
