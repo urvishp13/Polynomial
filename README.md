@@ -27,8 +27,3 @@ folder of this repo and type `java poly.Polytest`--as the .class files are alrea
 To access the polynomial files (.txt files) when running the program, you will have to backout/follow-directory-paths until you are 
 in the directory of that file (eg. in the command line, you'll have to use `../data/<file_name>.txt`; in Eclipse, you'll have to use 
 `data/<file_name>.txt`, etc.).
-
-<hr>
-
-This project was an assignment given to Rutgers CS112 Data Structures students in the Fall of 2014. It was redone in August 2021 with no recollection
-of how the project was initially completed. 
